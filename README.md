@@ -1,2 +1,4 @@
-# heynao
-hey Nao!
+# Welcome!
+
+This is the page for our Nao!
+
